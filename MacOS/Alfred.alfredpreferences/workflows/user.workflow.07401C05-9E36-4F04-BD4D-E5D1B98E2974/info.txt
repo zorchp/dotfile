@@ -1,0 +1,62 @@
++-o AppleSmartBattery  <class AppleSmartBattery, id 0x100000641, registered, matched, active, busy 0 (82 ms), retain 7>
+    {
+      "PostChargeWaitSeconds" = 120
+      "built-in" = Yes
+      "AppleRawAdapterDetails" = ()
+      "CurrentCapacity" = 100
+      "PackReserve" = 130
+      "InflowOverride" = 0
+      "DeviceName" = "bq20z451"
+      "PostDischargeWaitSeconds" = 120
+      "CarrierMode" = {"CarrierModeLowVoltage"=3600,"CarrierModeHighVoltage"=4100,"CarrierModeStatus"=0}
+      "TimeRemaining" = 65535
+      "ChargerConfiguration" = 0
+      "IOGeneralInterest" = "IOCommand is not serializable"
+      "IOReportLegend" = ({"IOReportChannels"=((7167869599145487988,6460407809,"BatteryCycleCount")),"IOReportGroupName"="Battery","IOReportChannelInfo"={"IOReportChannelUnit"=0}})
+      "AtCriticalLevel" = No
+      "BatteryCellDisconnectCount" = 0
+      "UpdateTime" = 1679015740
+      "Amperage" = 0
+      "AppleRawCurrentCapacity" = 3962
+      "AbsoluteCapacity" = 0
+      "AvgTimeToFull" = 65535
+      "ExternalConnected" = No
+      "ExternalChargeCapable" = No
+      "AppleRawBatteryVoltage" = 12785
+      "BootVoltage" = 0
+      "BatteryData" = {"Ra03"=0,"Ra10"=0,"CellWom"=(0,0),"RaTableRaw"=(<000000920079006f009200cf005c0064005f006f006f0073008b00d701b402b8>,<0055008b00770071008600c10060008800880093009800a000c3011c026403df>,<000000b3008e0085009600cf00680075006d007f0084008c009a00d801ab02a8>),"Qstart"=0,"AdapterPower"=968160874,"DailyMinSoc"=43,"Ra04"=0,"Ra11"=0,"CellVoltage"=(4262,4262,4261),"PackCurrentAccumulator"=6354504,"PassedCharge"=1,"Flags"=553648641,"PresentDOD"=(4,4,4),"Ra05"=0,"Ra12"=0,"FccComp1"=4021,"ChemID"=10037,"iMaxAndSocSmoothTable"=<0000000000000000000000000000000000000000000000000000000000000000>,"FccComp2"=4021,"PackCurrentAccumulatorCount"=768518,"DOD0"=(776,776,776),"Ra06"=0,"ResScale"=0,"Ra13"=0,"WeightedRa"=0,"FilteredCurrent"=0,"RSS"=0,"CellCurrentAccumulatorCount"=0,"Serial"="D860485ABD1PJYRAD","DataFlashWriteCount"=1921,"DailyMaxSoc"=100,"Ra07"=0,"Ra14"=0,"MaxCapacity"=100,"ChemicalWeightedRa"=0,"Ra00"=0,"BatteryHealthMetric"=0,"DesignCapacity"=4382,"Ra08"=0,"BatteryState"=<000000000000000043e440108d000102>,"CellCurrentAccumulator"=(0,0),"AlgoChemID"=10037,"MfgData"=<00000000100200012735000003313731033030320341544c003b000000000000>,"ManufactureDate"=59589201573938,"ISS"=0,"Ra01"=0,"Soc1Voltage"=0,"QmaxDisqualificationReason"=0,"ChargeAccum"=0,"SimRate"=0,"Qmax"=(4391,4358,4359),"PMUConfigured"=0,"ITMiscStatus"=0,"StateOfCharge"=99,"Ra09"=0,"GaugeFlagRaw"=16608,"CycleCount"=198,"Voltage"=12785,"SystemPower"=1052628989,"LifetimeData"={"Raw"=<0001784200cf97b90003973e0000000004522c0a0000e46fb24000000000000001c1ff7910fa0e1c32e52a6e0904f5960a94f3bffc9efc0c01010004ea940005>,"UpdateTime"=1679015740,"ResistanceUpdatedDisabledCount"=0,"CycleCountLastQmax"=192,"TimeAtHighSoc"=<1a000000c30e00004100000000000000>,"TemperatureSamples"=322196,"TotalOperatingTime"=20137,"MaximumDischargeCurrent"=18446744073709548950,"MinimumPackVoltage"=10862,"MaximumPackVoltage"=13029,"MaximumChargeCurrent"=2308,"AverageTemperature"=1,"MinimumTemperature"=18446744073709551481,"RDISCnt"=0,"MaximumTemperature"=449},"Ra02"=0}
+      "BatteryInstalled" = Yes
+      "IOReportLegendPublic" = Yes
+      "Serial" = "D860485ABD1PJYRAD"
+      "AppleRawExternalConnected" = No
+      "KioskMode" = {"KioskModeLastHighSocHours"=0,"KioskModeFullChargeVoltage"=0,"KioskModeMode"=0,"KioskModeHighSocSeconds"=0,"KioskModeHighSocDays"=0}
+      "NominalChargeCapacity" = 4382
+      "FullyCharged" = Yes
+      "FullPathUpdated" = 1679015740
+      "ManufacturerData" = <00000000100200012735000003313731033030320341544c003b000000000000>
+      "FedDetails" = ({"FedDualRolePower"=0,"FedPortPowerRole"=0,"FedRemainingCapacity"=0,"FedExternalConnected"=1,"FedDesignCapacity"=0,"FedProductID"=0,"FedVendorID"=0,"FedStateOfCharge"=0},{"FedDualRolePower"=0,"FedPortPowerRole"=0,"FedRemainingCapacity"=0,"FedExternalConnected"=1,"FedDesignCapacity"=0,"FedProductID"=0,"FedVendorID"=0,"FedStateOfCharge"=0})
+      "BatteryInvalidWakeSeconds" = 30
+      "ChargerData" = {"ChargingCurrent"=0,"NotChargingReason"=128,"ChargerStatus"=<8ab8c802000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000>,"ChargingVoltage"=4327,"VacVoltageLimit"=4320,"ChargerID"=12}
+      "BootPathUpdated" = 1678247442
+      "DesignCycleCount9C" = 1000
+      "AdapterDetails" = {"FamilyCode"=0}
+      "PowerTelemetryData" = {"AdapterEfficiencyLossAccumulatorCount"=0,"SystemLoad"=370,"AccumulatedSystemPowerIn"=770950779,"AccumulatedSystemLoad"=18300443213,"SystemPowerIn"=0,"AccumulatedAdapterEfficiencyLoss"=0,"SystemLoadAccumulatorCount"=763968,"AdapterEfficiencyLoss"=0,"SystemPowerInAccumulatorCount"=100953}
+      "MaxCapacity" = 100
+      "InstantAmperage" = 0
+      "GasGaugeFirmwareVersion" = 1
+      "AdapterInfo" = 0
+      "Location" = 0
+      "Temperature" = 2954
+      "AvgTimeToEmpty" = 65535
+      "BestAdapterIndex" = 254
+      "DesignCapacity" = 4382
+      "IsCharging" = No
+      "PermanentFailureStatus" = 0
+      "Voltage" = 12785
+      "UserVisiblePathUpdated" = 1679004087
+      "CycleCount" = 198
+      "AppleRawMaxCapacity" = 4021
+      "VirtualTemperature" = 2219
+    }
+    
+

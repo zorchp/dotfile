@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "sudo systemctl disable ",
+    "uid" : "AE9EED29-BE54-4471-BFBF-49D8A793B33D",
+    "name" : "sys-disable",
+    "keyword" : "sysdis"
+  }
+}

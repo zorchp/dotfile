@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#include <iostream>\n#include <vector>\n#include <string>\n#include <typeinfo>\nusing namespace std;",
+    "uid" : "A3D87096-09FC-4E57-A791-B183F642DC6D",
+    "name" : "basic-header",
+    "keyword" : "h"
+  }
+}

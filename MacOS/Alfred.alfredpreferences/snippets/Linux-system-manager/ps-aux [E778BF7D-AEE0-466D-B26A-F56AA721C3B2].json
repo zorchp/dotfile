@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "ps aux | grep ",
+    "uid" : "E778BF7D-AEE0-466D-B26A-F56AA721C3B2",
+    "name" : "ps-aux",
+    "keyword" : "psa"
+  }
+}

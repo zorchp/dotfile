@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "% 自定义新命令\\upcite, 使参考文献引用以上标出现\n\\newcommand{\\upcite}[1]{\\textsuperscript{\\cite{#1}}}",
+    "uid" : "45DB9A15-D378-4A94-ADCD-5DFB80410205",
+    "name" : "upcite",
+    "keyword" : "upcite"
+  }
+}

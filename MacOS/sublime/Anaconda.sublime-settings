@@ -1,0 +1,5 @@
+{
+    "auto_formatting": true,
+    "auto_formatting_timeout": 3,
+    "python_interpreter": "/opt/homebrew/Caskroom/miniforge/base/envs/py3x/bin/python3"
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "from collections import defaultdict,Counter,Orderdict,deque\nfrom heapq import heappush,heappop,heapify,heapreplace,nlargest,nsmallest\nfrom math import sqrt,gcd,lcm,pow,prod,comb,perm,factorial\n# from math import *\nfrom itertools import accumulate,groupby,combination\nfrom typing import List\nfrom functools import cache\n",
+    "uid" : "3574B211-528E-47A4-A352-4EC00778FCC8",
+    "name" : "lc-pkg",
+    "keyword" : "lcp"
+  }
+}

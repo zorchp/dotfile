@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "sudo systemctl daemon-reload",
+    "uid" : "3870399D-3FB3-41E1-B3B3-BBFB4ED960DD",
+    "name" : "sys-reload",
+    "keyword" : "sysre"
+  }
+}

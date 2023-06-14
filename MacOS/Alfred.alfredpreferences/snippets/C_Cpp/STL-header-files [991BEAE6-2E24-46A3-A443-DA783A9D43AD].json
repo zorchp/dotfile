@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#include <iostream>\n#include <vector>\n#include <functional>\n#include <iomanip>\n#include <algorithm>\n#include <bitset>\n#include <complex>\n#include <deque>\n#include <numeric>\n#include <stack>\n#include <queue>\n#include <unordered_map>\n#include <unordered_set>\n#include <map>\n#include <set>\n#include <string>\n#include <list>\nusing namespace std;",
+    "uid" : "991BEAE6-2E24-46A3-A443-DA783A9D43AD",
+    "name" : "STL-header-files",
+    "keyword" : "hh"
+  }
+}

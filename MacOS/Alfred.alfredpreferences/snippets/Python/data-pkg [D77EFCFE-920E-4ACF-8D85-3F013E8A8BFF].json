@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "import numpy as np\nimport pandas as pd\nimport matplotlib.pyplot as plt\n",
+    "uid" : "D77EFCFE-920E-4ACF-8D85-3F013E8A8BFF",
+    "name" : "data-pkg",
+    "keyword" : "dfp"
+  }
+}

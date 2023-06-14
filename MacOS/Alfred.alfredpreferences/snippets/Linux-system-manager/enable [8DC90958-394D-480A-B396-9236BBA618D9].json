@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "sudo systemctl enable ",
+    "uid" : "8DC90958-394D-480A-B396-9236BBA618D9",
+    "name" : "enable",
+    "keyword" : "sysen"
+  }
+}

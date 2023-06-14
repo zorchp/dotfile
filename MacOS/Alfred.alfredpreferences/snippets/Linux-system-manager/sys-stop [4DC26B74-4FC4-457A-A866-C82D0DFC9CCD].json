@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "sudo systemctl stop",
+    "uid" : "4DC26B74-4FC4-457A-A866-C82D0DFC9CCD",
+    "name" : "sys-stop",
+    "keyword" : "sysx"
+  }
+}

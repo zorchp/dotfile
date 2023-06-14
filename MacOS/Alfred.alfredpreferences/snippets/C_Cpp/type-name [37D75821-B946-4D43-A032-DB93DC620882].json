@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "cout<<typeid({cursor}).name()<<endl;",
+    "uid" : "37D75821-B946-4D43-A032-DB93DC620882",
+    "name" : "type-name",
+    "keyword" : "type"
+  }
+}

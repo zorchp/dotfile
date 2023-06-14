@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "sudo systemctl start ",
+    "uid" : "57963531-FC33-4027-9A98-4E0CDE2A1651",
+    "name" : "sysctl-start",
+    "keyword" : "sysst"
+  }
+}

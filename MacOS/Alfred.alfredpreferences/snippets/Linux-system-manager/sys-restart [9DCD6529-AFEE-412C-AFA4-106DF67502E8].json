@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "sudo systemctl restart ",
+    "uid" : "9DCD6529-AFEE-412C-AFA4-106DF67502E8",
+    "name" : "sys-restart",
+    "keyword" : "sysres"
+  }
+}

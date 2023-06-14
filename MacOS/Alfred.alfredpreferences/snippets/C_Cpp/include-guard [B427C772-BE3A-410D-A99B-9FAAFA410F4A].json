@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "#ifndef {cursor}\n#define \n\n#endif ",
+    "uid" : "B427C772-BE3A-410D-A99B-9FAAFA410F4A",
+    "name" : "include-guard",
+    "keyword" : "def"
+  }
+}
