@@ -9,6 +9,9 @@ return {
             AlignOperands: true, \
             AlignTrailingComments: true, \
             AllowShortBlocksOnASingleLine: false, \
+            AllowShortFunctionsOnASingleLine: false, \
+            AllowShortIfStatementsOnASingleLine: false, \
+            AllowShortLoopsOnASingleLine: false, \
             AllowShortCaseLabelsOnASingleLine: false, \
             MaxEmptyLinesToKeep: 2, \
             SpacesBeforeTrailingComments: 1, \
