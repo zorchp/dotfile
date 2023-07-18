@@ -1,7 +1,9 @@
 local lang = {}
+
 lang["lervag/vimtex"] = {
     config = require("lang.vimtex"),
 } -- add this
+
 lang["fatih/vim-go"] = {
 	lazy = true,
 	ft = "go",
