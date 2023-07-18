@@ -1,5 +1,9 @@
 local ui = {}
 
+ui["navarasu/onedark.nvim"] = {
+	config = require("ui.onedark"),
+}
+
 ui["goolord/alpha-nvim"] = {
 	lazy = true,
 	event = "BufWinEnter",
@@ -13,8 +17,8 @@ ui["akinsho/bufferline.nvim"] = {
 ui["Jint-lzxy/nvim"] = {
 	lazy = false,
 	branch = "refactor/syntax-highlighting",
-	name = "catppuccin",
-	config = require("ui.catppuccin"),
+	-- name = "catppuccin",
+	-- config = require("ui.catppuccin"),
 }
 ui["sainnhe/edge"] = {
 	lazy = true,

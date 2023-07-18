@@ -49,7 +49,7 @@ return function()
 
 	local mini_sections = {
 		lualine_a = { "filetype" },
-		lualine_b = {},
+		lualine_b = { "filename" },
 		lualine_c = {},
 		lualine_x = {},
 		lualine_y = {},
