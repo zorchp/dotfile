@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"Anaconda",
+		"Clang Format",
+		"Indent XML",
+		"LaTeXTools",
+		"LaTeXYZ",
+		"MasmAssembly",
+		"Package Control",
+		"RainbowBrackets",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Theme - Darkmatter",
+		"Theme - One Dark",
+		"Theme - Vim Blackboard",
+		"WakaTime",
+	],
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+	],
+}
