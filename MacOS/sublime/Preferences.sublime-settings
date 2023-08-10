@@ -1,0 +1,22 @@
+{
+    "font_size": 18,
+    "font_face": "JetBrainsMono Nerd Font Mono",
+    "save_on_focus_lost": true,
+    "word_wrap": true,
+    "tab_size": 4,
+    "use_tab_stops": true,
+    "translate_tabs_to_spaces": true,
+    "draw_white_space":
+    [
+        "all",
+        "selection"
+    ],
+    "caret_style": "smooth",
+    "ignored_packages":
+    [
+        "Vintage",
+    ],
+    "color_scheme": "Packages/Agila Theme/Agila Neon Monocyanide.tmTheme",
+    "theme": "Agila Neon.sublime-theme",
+    "update_check": false,
+}
