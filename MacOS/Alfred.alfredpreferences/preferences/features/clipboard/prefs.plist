@@ -4,8 +4,12 @@
 <dict>
 	<key>autoExpandMidString</key>
 	<true/>
+	<key>fastAppend</key>
+	<true/>
 	<key>fastAppendBackToClipboard</key>
 	<true/>
+	<key>fastAppendPlaySound</key>
+	<false/>
 	<key>hotkey</key>
 	<dict>
 		<key>key</key>

@@ -3,7 +3,7 @@ local function CodeRunner()
     vim.api.nvim_create_autocmd({ "InsertLeave" }, {
         callback = function()
             vim.fn.execute("silent! write")
-            vim.notify("Autosaved!", vim.log.levels.INFO, {})
+            -- vim.notify("Autosaved!", vim.log.levels.INFO, {})
         end,
     })
 
@@ -53,14 +53,14 @@ local function CodeRunner()
                 0,
                 "n",
                 "<F7>",
-                "<ESC>:w<CR>:split<CR>:te g++-13 -std=c++20 -Wshadow -Wall -o %:t:r.out %  && time ./%:t:r.out<CR>",
+                "<ESC>:w<CR>:split<CR>:te g++-13 -std=c++2b -Wshadow -Wall -o %:t:r.out %  && time ./%:t:r.out<CR>",
                 { silent = true, noremap = true }
             )
             vim.api.nvim_buf_set_keymap(
                 0,
                 "n",
                 "<F8>",
-                "<ESC>:w<CR>:split<CR>:te /usr/bin/clang++ -std=c++20 -Wshadow -Wall -o %:t:r.out % -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG && time ./%:t:r.out<CR>",
+                "<ESC>:w<CR>:split<CR>:te /usr/bin/clang++ -std=c++2b -Wshadow -Wall -o %:t:r.out % -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG && time ./%:t:r.out<CR>",
                 -- "<ESC>:w<CR>:split<CR>:te /usr/bin/clang++ -std=c++20 -Wshadow -Wall -o %:t:r.out % && time ./%:t:r.out<CR>",
                 { silent = true, noremap = true }
             )
@@ -68,7 +68,7 @@ local function CodeRunner()
                 0,
                 "i",
                 "<F7>",
-                "<ESC>:w<CR>:split<CR>:te g++-13 -std=c++20 -Wshadow -Wall -o %:t:r.out %  && time ./%:t:r.out<CR>",
+                "<ESC>:w<CR>:split<CR>:te g++-13 -std=c++2b -Wshadow -Wall -o %:t:r.out %  && time ./%:t:r.out<CR>",
                 { silent = true, noremap = true }
             )
             vim.api.nvim_buf_set_keymap(
@@ -76,7 +76,7 @@ local function CodeRunner()
                 "i",
                 "<F8>",
                 -- "<ESC>:w<CR>:split<CR>:te /usr/bin/clang++ -std=c++20 -Wshadow -Wall -o %:t:r.out % && time ./%:t:r.out<CR>",
-                "<ESC>:w<CR>:split<CR>:te /usr/bin/clang++ -std=c++20 -Wshadow -Wall -o %:t:r.out % -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG && time ./%:t:r.out<CR>",
+                "<ESC>:w<CR>:split<CR>:te /usr/bin/clang++ -std=c++2b -Wshadow -Wall -o %:t:r.out % -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG && time ./%:t:r.out<CR>",
                 { silent = true, noremap = true }
             )
         end,

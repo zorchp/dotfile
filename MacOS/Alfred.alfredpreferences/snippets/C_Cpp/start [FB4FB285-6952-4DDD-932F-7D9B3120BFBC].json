@@ -1,6 +1,6 @@
 {
   "alfredsnippet" : {
-    "snippet" : "auto start = std::chrono::system_clock::now();\n\n{cursor}\n\nauto end = std::chrono::system_clock::now();\nauto duration = duration_cast<std::chrono::microseconds>(end - start);\nstd::cout << \"Time spent: \"\n          << double(duration.count()) * std::chrono::microseconds::period::num \/\n                 std::chrono::microseconds::period::den\n          << \"s\" << std::endl;",
+    "snippet" : "auto start = std::chrono::system_clock::now();\n\n{cursor}\n\nauto end = std::chrono::system_clock::now();\nauto duration = std::chrono::duration_cast<std::chrono::microseconds>(end - start);\nstd::cout << \"Time spent: \"\n          << double(duration.count()) * std::chrono::microseconds::period::num \/\n                 std::chrono::microseconds::period::den\n          << \"s\" << std::endl;",
     "uid" : "FB4FB285-6952-4DDD-932F-7D9B3120BFBC",
     "name" : "start",
     "keyword" : "s"
